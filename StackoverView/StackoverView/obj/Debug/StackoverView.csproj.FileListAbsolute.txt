@@ -1,0 +1,6 @@
+D:\101193\2Appril\StackoverView\StackoverView\bin\Debug\StackoverView.exe.config
+D:\101193\2Appril\StackoverView\StackoverView\obj\Debug\StackoverView.csprojResolveAssemblyReference.cache
+D:\101193\2Appril\StackoverView\StackoverView\bin\Debug\StackoverView.exe
+D:\101193\2Appril\StackoverView\StackoverView\bin\Debug\StackoverView.pdb
+D:\101193\2Appril\StackoverView\StackoverView\obj\Debug\StackoverView.exe
+D:\101193\2Appril\StackoverView\StackoverView\obj\Debug\StackoverView.pdb
